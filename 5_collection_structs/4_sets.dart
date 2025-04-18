@@ -1,5 +1,5 @@
 void main() {
-  Set<String> cities = {"New York", "London", "Paris", "Tokyo", "London"};
+  Set<String> cities = {"New York", "London", "Paris", "Tokyo"};
 
   print(cities);
 
