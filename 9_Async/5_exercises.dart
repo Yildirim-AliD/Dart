@@ -1,3 +1,13 @@
+// Question:
+// Write a function that takes an integer id parameter and returns the person information in a map after 3 seconds.
+// The returned map example: {'username': 'emre', id: 5}
+
+// Write a function that takes the username from the retrieved person information as a parameter.
+// This function will return a list of course names related to the username after 2 seconds.
+// The returned list example: ['dart', 'flutter', 'js']
+
+// Try to implement this example using both async-await and then structures.
+
 void main(List<String> args) async {
   // Map<String, dynamic> personMap = await getPersonInfo(5);
   // String username = personMap['username'];
